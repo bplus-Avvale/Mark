@@ -26,10 +26,4 @@ style 0000000010 fill:#F24633;
 style 0000000011 fill:#F24633;
 style 0000000012 fill:#F24633;
 
-click 0000000001 "G:\My Drive\Repsol\Repsol\ZTEST_PROGRAMA_TEST.txt" "This is a link"
-
 ```
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjM5Mjk1NTAsLTE2NzUyODQyNzBdfQ
-==
--->
